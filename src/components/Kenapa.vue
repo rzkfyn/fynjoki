@@ -12,7 +12,7 @@ export default {
                   <path fill-rule="evenodd" d="M0 10a8 8 0 1 1 15.547 2.661c-.442 1.253-1.845 1.602-2.932 1.25C11.309 13.488 9.475 13 8 13c-1.474 0-3.31.488-4.615.911-1.087.352-2.49.003-2.932-1.25A7.988 7.988 0 0 1 0 10zm8-7a7 7 0 0 0-6.603 9.329c.203.575.923.876 1.68.63C4.397 12.533 6.358 12 8 12s3.604.532 4.923.96c.757.245 1.477-.056 1.68-.631A7 7 0 0 0 8 3z"/>
                 </svg>`,
           title: 'Proses Cepat',
-          body: 'Proses pengerjaan akan cepat karena rata rata penjoki kami adalah pengocok yang pasti kalo ngetik mah ez lah deck.'
+          body: 'Proses pengerjaan akan cepat karena rata rata penjoki kami adalah <em>shaker</em> handal yang pasti kalo ngetik mah ez lah deck.'
         },
         {
           icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-currency-dollar" viewBox="0 0 16 16">
@@ -45,7 +45,7 @@ export default {
   <div id="Kenapa">
     <div class="left">
       <div class="title">
-        <h2 title="Gajelas si tolol">Kenapa Sih Lu Harus Banget Dengan Sangat Amat Harus Pake Layanan Joki FynJoki?</h2>
+        <h2 title="Gajelas hadeh">Kenapa Sih Lu Harus Banget Dengan Sangat Amat Harus Pake Layanan Joki FynJoki?</h2>
       </div>
       <div class="desc">
         <div>

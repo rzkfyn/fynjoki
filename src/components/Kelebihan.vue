@@ -18,8 +18,7 @@ export default {
         <h4>{{ kelebihan.title }}</h4>
       </div>
     </div>
-    <div class="body">
-      {{ kelebihan.body }}
+    <div class="body" v-html="kelebihan.body">
     </div>
   </div>
 </template>

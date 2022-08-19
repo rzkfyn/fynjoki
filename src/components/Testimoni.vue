@@ -7,46 +7,46 @@ export default {
     return {
       testimonis: [
         {
-        name: 'Sajuna Inui',
-        occupation: 'Mahasiswa & Cosplayer',
-        feedback: '"Keren banget kack tugasku beres dalam sekejap mata aku jadi ingin tinggal di Meikarta!"',
-        rating: 5,
-        img: 'inui.jpg'
+          name: 'Sajuna Inui',
+          occupation: 'Mahasiswa & Cosplayer',
+          feedback: '"Keren banget kack tugasku beres dalam sekejap mata aku jadi ingin tinggal di Meikarta!"',
+          rating: 5,
+          img: 'inui.jpg'
         },
         {
-        name: 'Kobokan Aer',
-        occupation: 'Pawang Hujan & Pencoding Handal',
-        feedback: '"Pelayanan keren, penjokinya juga ganteng banget dan sopan banget suka bantuin ngeluarin motor."',
-        rating: 5,
-        img: 'kobokan.png'
+          name: 'Kobokan Aer',
+          occupation: 'Pawang Hujan & Pencoding Handal',
+          feedback: '"Pelayanan keren, penjokinya juga ganteng banget dan sopan banget suka bantuin ngeluarin motor."',
+          rating: 5,
+          img: 'kobokan.png'
         },
         {
-        name: 'Bambang Gagal Png',
-        occupation: 'Cowo Kulbet Asal Bogor',
-        feedback: '"Harga mahal trus gw malah dicepuin joki disini lagi tolol. Untung abang abangnya ganteng."',
-        rating: 3,
-        img: 'kul.png'
+          name: 'Bambang Gagal Png',
+          occupation: 'Cowo Kulbet Asal Bogor',
+          feedback: '"Harga mahal trus gw malah dicepuin joki disini lagi, hadeh emang. Untung abang abangnya ganteng."',
+          rating: 3,
+          img: 'kul.png'
         },
         {
-        name: 'Sachi Umino',
-        occupation: 'Mahasiswa & LemONTEa',
-        feedback: '"Tugasku cepet beres dan nilaiku jadi baguss. Tapi sayang ga bisa bayar pake cara anu :("',
-        rating: 3,
-        img: 'sachi.jpg'
+          name: 'Sachi Umino',
+          occupation: 'Mahasiswa & LemONTEa',
+          feedback: '"Tugasku cepet beres dan nilaiku jadi baguss. Tapi sayang ga bisa bayar pake cara anu :("',
+          rating: 3,
+          img: 'sachi.jpg'
         },
         {
-        name: 'Alex Uchiha',
-        occupation: 'Mahasiswa Tataboga',
-        feedback: '"Pelayanan baik, tugas selesai dengan baik, penjoki penjokinya juga baik. Cuman saya aja yang ga baik"',
-        rating: 1,
-        img: 'fm.jpg'
+          name: 'Alex Uchiha',
+          occupation: 'Mahasiswa Tataboga',
+          feedback: '"Pelayanan baik, tugas selesai dengan baik, penjoki penjokinya juga baik. Cuman saya aja yang ga baik"',
+          rating: 1,
+          img: 'fm.jpg'
         },
         {
-        name: 'Wibu Hengker Pro Tzy',
-        occupation: 'Mahasiswa Fangay Epep',
-        feedback: '"Game burik ga ada pintu yahaha hayyu. Tapi boong pal pale pal pale kena mental deck Yahahahaha Hayyu"',
-        rating: 0,
-        img: 'yoru.jpg'
+          name: 'Wibu Hengker Pro Tzy',
+          occupation: 'Mahasiswa Fangay Epep',
+          feedback: '"Game burik ga ada pintu yahaha hayyu. Tapi boong pal pale pal pale kena mental deck Yahahahaha Hayyu"',
+          rating: 0,
+          img: 'yoru.jpg'
         }
       ]
     }
